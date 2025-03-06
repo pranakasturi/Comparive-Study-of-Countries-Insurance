@@ -1,4 +1,4 @@
-# Comparive-Study-of-Countries-Insurance
+# Comparative-Study-of-Countries-Insurance
 (Tableau Dashboard)
 
 Step 1:	Open Tableau Public 
